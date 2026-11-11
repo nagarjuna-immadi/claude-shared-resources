@@ -1,0 +1,8 @@
+{
+  "name": "shared",
+  "version": "0.1.0",
+  "description": "Plan, deploy, record, rename and commit skills shared by the SAP BTP repos. Each repo supplies its own facts in .claude/shared-skills.md.",
+  "author": {
+    "name": "Nagarjuna Immadi"
+  }
+}

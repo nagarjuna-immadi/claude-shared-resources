@@ -1,0 +1,15 @@
+{
+  "name": "claude-shared-resources",
+  "description": "Claude Code skills shared by the SAP BTP repos (sap-tm-projects, stingray-s4).",
+  "owner": {
+    "name": "Nagarjuna Immadi"
+  },
+  "plugins": [
+    {
+      "name": "shared",
+      "source": "./plugins/shared",
+      "description": "Plan, deploy, record, rename and commit skills. Each repo supplies its own facts in .claude/shared-skills.md.",
+      "version": "0.1.0"
+    }
+  ]
+}
